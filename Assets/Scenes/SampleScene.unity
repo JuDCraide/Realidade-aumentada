@@ -228,18 +228,6 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3705595085385485000, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: 3705595085385485000, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: 3705595085385485000, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: 3705595085385485000, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -287,25 +275,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6926719574592025358, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
-      propertyPath: m_RenderMode
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 6934468877657448461, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 8398981096484156577, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 1.52
-      objectReference: {fileID: 0}
-    - target: {fileID: 8398981096484156577, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 3.014
-      objectReference: {fileID: 0}
-    - target: {fileID: 8834532592188231830, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
-      propertyPath: m_PresetInfoIsWorld
-      value: 1
+    - target: {fileID: 6934468877657448461, guid: 998576c9483ae0740bc40fc00eca2573, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
