@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SelecioneVaga.unity
+    guid: 6981369bf91968d4287c9ec49a7f293a
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0881ff491389b40458fb0a58518005c7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5e8749ac097f3424186e168013654fe8, type: 2}
